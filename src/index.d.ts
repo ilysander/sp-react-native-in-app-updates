@@ -1,4 +1,4 @@
-import type {
+import {
   StartUpdateOptions,
   NeedsUpdateResponse,
   CheckOptions,
